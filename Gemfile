@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0.rc2'
 gem 'jquery-rails'
+gem 'turbolinks'
 
 group :production do
 	gem 'pg'
